@@ -1,8 +1,8 @@
-# LOAN-STATUS-PREDICTION
-Loan\_Status\_Prediction
+
+# Loan\_Status\_Prediction
 
 -----
-The aim of this project is to predict whether the loan of a person will be approved or not using a dataset from Kaggle using machine learning.
+The aim of this project is to predict whether the loan of any person will be approved or not using a dataset from Kaggle using Machine Learning.
 
 Libraries used: -
 
